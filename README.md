@@ -35,7 +35,8 @@ on the home screen you have two options.
 - you can either click to gain $1 per click
 - you can sleep to start a new day.
 
-~
+![home](readme_files/home.png)
+
 
 ### Barn Screen
 on the barn screen you have three options.
@@ -43,7 +44,8 @@ on the barn screen you have three options.
 - you can shear your sheep x1 a day
 - you can grab your chicken eggs x1 a day
 
-~
+![barn](readme_files/barn.png)
+
 
 ### Market Screen
 on the market screen you can sell your goods.
@@ -51,7 +53,9 @@ on the market screen you can sell your goods.
 - sell your wool
 - sell a dozen (12) eggs
 
-~
+![market](readme_files/market.png)
+
+
 
 ### Store Screen
 on the store screen you can buy more animals or buy more food for your animals.
@@ -62,11 +66,13 @@ on the store screen you can buy more animals or buy more food for your animals.
 - buy hay (food for sheep)
 - buy seed (food for chickens
 
-~
+![store](readme_files/store.png)
+
+
 
 ### Game Over
 Once you have played for 30 (in game) days, the game is over and you are presented with a screen of your statistics!
-
+![end](readme_files/end_card.png)
 
 ## Built Using
 - [Java](https://docs.oracle.com/javase/7/docs/api/)
