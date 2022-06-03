@@ -3,6 +3,7 @@ simple farming simulation made with SWING (Java)
 
 
 ## About the Project
+![Intro]
 
 
 ## Getting Started
@@ -14,6 +15,8 @@ simple farming simulation made with SWING (Java)
 
 
 ## Usage
+### How to Play?
+
 
 
 ## Built Using
